@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CronLuta</string>
+    <string name="round_count">Rounds</string>
+    <string name="round_duration">Tempo</string>
+    <string name="pause_duration">Pausa</string>
+</resources>
